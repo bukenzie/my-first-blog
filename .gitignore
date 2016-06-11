@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenv
+db.squite3
+/static
+.DS_Store
